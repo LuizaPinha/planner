@@ -1,0 +1,36 @@
+body{
+    height: 10px;
+    background-image: url('../img/plano.jpeg');
+}
+.titulo{
+    font-family: "Monotype Corsiva";
+    color:rgb(10, 186, 181);
+    font-size: 100px;
+}
+
+.select{
+    width: 300px;
+}
+
+.tabela{
+    margin-right: 500px;
+}
+
+.centro{
+    text-align:"center";
+}
+
+.metas{
+    transform: translateY(-108%);
+	margin-left:650px;
+    margin-right:200px;
+}
+
+.importante{
+	margin-left:200px;
+    margin-right:650px;
+}
+
+.t{
+    transform: translateY(-30%);
+}
